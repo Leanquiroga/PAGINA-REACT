@@ -1,0 +1,9 @@
+.carousel-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .carrusel {
+    width: 90%;
+  }
+  
